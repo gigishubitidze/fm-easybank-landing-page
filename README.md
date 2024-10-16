@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/gigishubitidze/fm-single-price-cmp.git)
+- Solution URL: [GitHub](https://github.com/gigishubitidze/fm-easybank-landing-page)
 - Live Site URL: [GitHub Pages](https://gigishubitidze.github.io/fm-easybank-landing-page/)
 
 ## My process
